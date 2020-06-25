@@ -16,7 +16,7 @@ The Motivation for this project was to explore different techniques that were le
 This project was perform in Java, with the use of Java fx libraries for graphical interface.
 This libraries can be obtained by downloading the following JARs and adding them to the project's library resources.
 
-![alt text](https://github.com/TheCodeMaster2030/Money_Moves/blob/master/code/download.png?raw=true)
+![alt text](https://github.com/TheCodeMaster2030/Java_Project/blob/master/libs.png?raw=true)
 
 
 Also as an extra step, the next lines must be introduced in the VM section of the run preferences:
@@ -34,7 +34,10 @@ These are some visualizations of the game itself
            <summary>Game</summary>
            <p>
 
-![alt text](https://github.com/TheCodeMaster2030/Money_Moves/blob/master/code/download.png?raw=true)
+![alt text](https://github.com/TheCodeMaster2030/Java_Project/blob/master/Game1.png?raw=true)
+
+
+![alt text](https://github.com/TheCodeMaster2030/Java_Project/blob/master/Game2.png?raw=true)
 
 </p>
 </details>
@@ -43,7 +46,7 @@ These are some visualizations of the game itself
            <p>
                       
 
-![alt text](https://github.com/TheCodeMaster2030/Money_Moves/blob/master/code/Time_series.png?raw=true)
+![alt text](https://github.com/TheCodeMaster2030/Java_Project/blob/master/Menu.png?raw=true)
   </p>
          </details>
 <details>
