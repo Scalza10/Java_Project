@@ -51,7 +51,7 @@ These are some visualizations of the game itself
            <p>
 
              
-![alt text](https://github.com/TheCodeMaster2030/Money_Moves/blob/master/code/Decision_tree.png?raw=true)
+![alt text](https://github.com/TheCodeMaster2030/Java_Project/blob/master/Credits.png?raw=true)
  
  </details>
          
